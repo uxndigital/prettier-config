@@ -14,5 +14,8 @@
     "access": "public",
     "tag": "latest"
   },
-  "repository": "uxndigital/prettier-config"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uxndigital/prettier-config.git"
+  }
 }

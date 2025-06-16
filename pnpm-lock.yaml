@@ -9,7 +9,7 @@ importers:
   .:
     devDependencies:
       prettier:
-        specifier: ^3.2.5
+        specifier: 3.x.x
         version: 3.2.5
 
 packages:

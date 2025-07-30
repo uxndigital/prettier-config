@@ -1,7 +1,8 @@
 {
   "name": "@uxndigital/prettier-config",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "UXN Digital",
+  "type": "module",
   "devDependencies": {
     "prettier": "3.x.x"
   },
